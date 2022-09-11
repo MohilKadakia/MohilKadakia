@@ -1,4 +1,8 @@
-## Hi there 👋 I'm Mohil
+## Hi there 👋
+
+<h3 align="left">
+Hi, I'm Mohil. I'm a high school student in Toronto, and a self taught programmer.
+</h3>
 
 <br>
 
@@ -19,10 +23,6 @@
     <img src="https://img.shields.io/badge/C%23-650094?logo=C-Sharp&style=for-the-badge" />
 </div>
 
-<br>
-<h3 align="center">
-Hi, I'm Mohil. I'm a high school student in Toronto, and a self taught programmer.
-</h3>
 <br>
 
 <div align="center">  
