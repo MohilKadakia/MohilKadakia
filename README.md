@@ -32,6 +32,7 @@ I'm a self-taught developer and university student set in Toronto, and am curren
     <img src="https://img.shields.io/badge/robotics-505050?logo=open-source-hardware&logoColor=FFFFFF&style=for-the-badge" />
     <img src="https://img.shields.io/badge/react.js-0088CC?&logo=react&logoColor=FFFFFF&style=for-the-badge" />
     <img src="https://img.shields.io/badge/next.js-202020?&logo=next.js&logoColor=FFFFFF&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/astro-d15b30?&logo=astro&logoColor=FFFFFF&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Linux-fee600?logo=linux&logoColor=000000&style=for-the-badge" />
     <img src="https://img.shields.io/badge/RPI-C51A4A?logo=Raspberry-Pi&style=for-the-badge" />
 </div>
